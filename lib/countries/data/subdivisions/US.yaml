@@ -2858,19 +2858,6 @@ PA:
     max_latitude: 42.2693866
     max_longitude: -74.6895018
   name: Pennsylvania
-PR:
-  unofficial_names: Puerto Rico
-  translations:
-    en: Puerto Rico
-  geo:
-    latitude: 32.7290818
-    longitude: -117.1517016
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  comments: see also separate entry under PR
-  name: Puerto Rico
 RI:
   unofficial_names: Rhode Island
   translations:
