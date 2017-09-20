@@ -25,6 +25,9 @@ US:
   un_locode: US
   nationality: American
   postal_code: true
+  translations:
+    es: Estados Unidos
+    en: United States
   unofficial_names:
   - United States
   - Vereinigte Staaten von Amerika
